@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Microsoft//Outlook Web//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000075A45195E408DD01000000000000000
+ 010000000672F1547B0B519408D00C6FF5F189FF9
+DTSTAMP:20260701T011746Z
+DTSTART:20260701T130000Z
+DTEND:20260701T140000Z
+SUMMARY:Supply Chain Issues Review
+DESCRIPTION:Review of Critical Supply Chain IssuesFDA Compliance Risk Asses
+ smentAssignment of Action Items and OwnersTimeline for ResolutionProposed 
+ stakeholders (fictional): Sarah Nakamura\, David Okoro\, Ravi Patel\, Elea
+ nor WrightTeams meeting for organizer only.This invite was sent by Copilot
+  on behalf of Castro de matos\, Esron [CONBR].
+X-ALT-DESC;FMTTYPE=text/html:<div class="cal_fa6e"><div>Review of Critical 
+ Supply Chain Issues<br>FDA Compliance Risk Assessment<br>Assignment of Act
+ ion Items and Owners<br>Timeline for Resolution<br><br>Proposed stakeholde
+ rs (fictional): Sarah Nakamura\, David Okoro\, Ravi Patel\, Eleanor Wright
+ <br><br>Teams meeting for organizer only.<br><br>This invite was sent by C
+ opilot on behalf of Castro de matos\, Esron [CONBR].</div></div>
+ORGANIZER;CN=Castro de matos\, Esron [CONBR]:mailto:ECastrod@ITS.JNJ.com
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
